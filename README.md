@@ -9,42 +9,17 @@ https://golang.org/
 
 
 
+.go serialization binary
+https://github.com/ugorji/go
 
+```
+```
 
+```
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+```
 
 
 
